@@ -64,19 +64,9 @@ img {
 
 .nav-menu a:hover{
     background-color: #3528D7;
-    transform: scale(1.1);
 }
 
 .nav-item {
     flex: 1 0 10%;
     text-align: center;
-}
-
-@media (min-width: 900px) {
-    .header-nav {
-        justify-content: space-evenly;
-    }
-    .nav-menu {
-        width: auto;
-    }
 }
