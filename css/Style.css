@@ -22,6 +22,12 @@ h1 {
     text-align: center;
 }
 
+img {
+    width: 30%;
+    height: auto;
+    display: -ms-grid;
+}
+
 .stdbox {
 
 }
